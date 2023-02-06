@@ -1,2 +1,1 @@
-# GoldenEye-007
- GoldenEye-007 From the Nintendo 64
+Download the HTML file and run it
